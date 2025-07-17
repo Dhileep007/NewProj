@@ -1,0 +1,1 @@
+Select * from raw.jaffle_shop.orders
